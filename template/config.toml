@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://lgaida.github.io/mediumish-gohugo-theme-demo/"
 languageCode = "en-us"
 title = "Mediumish"
 theme = "mediumish-gohugo-theme"
@@ -36,7 +36,6 @@ Currently trying to get this blog running, still don't know what the blog will b
   xing = "<username>"
   medium = "<username>"
   twitter = "<username>"
-  instagram = "<username>"
 
 ## Main Menu
 [[menu.main]]
@@ -44,6 +43,11 @@ Currently trying to get this blog running, still don't know what the blog will b
     weight = 100
     identifier = "blog"
     url = "/blog"
+[[menu.main]]
+    name = "Separate"
+    weight = 100
+    identifier = "separate"
+    url = "/separate"
 [[menu.main]]
     name = "About Me"
     identifier = "about"
