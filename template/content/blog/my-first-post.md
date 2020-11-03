@@ -2,7 +2,7 @@
 title: "My First Post"
 date: 2018-10-07T11:17:14+02:00
 publishdate: 2018-10-07T11:17:14+02:00
-image: "/images/blog/1.jpg"
+image: "/Users/sudcha/Documents/Github/100k/template/static/images/blog/7.jpg"
 tags: ["interesting"]
 comments: false
 ---
