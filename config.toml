@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://milkie-way.github.io"
 languageCode = "en-us"
 title = "Mediumish"
 theme = "theme"
