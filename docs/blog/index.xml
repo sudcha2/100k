@@ -2,90 +2,90 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Mediumish</title>
-    <link>https://milkie-way.github.io/100K/blog/</link>
+    <link>/100K/blog/</link>
     <description>Recent content in Blogs on Mediumish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>John Doe - All rights reserved</copyright>
-    <lastBuildDate>Sun, 07 Oct 2018 11:40:14 +0200</lastBuildDate><atom:link href="https://milkie-way.github.io/100K/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Oct 2018 11:40:14 +0200</lastBuildDate><atom:link href="/100K/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ninth</title>
-      <link>https://milkie-way.github.io/100K/blog/ninth/</link>
+      <link>/100K/blog/ninth/</link>
       <pubDate>Sun, 07 Oct 2018 11:40:14 +0200</pubDate>
       
-      <guid>https://milkie-way.github.io/100K/blog/ninth/</guid>
+      <guid>/100K/blog/ninth/</guid>
       <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
       <title>Eighth</title>
-      <link>https://milkie-way.github.io/100K/blog/eighth/</link>
+      <link>/100K/blog/eighth/</link>
       <pubDate>Sun, 07 Oct 2018 11:40:11 +0200</pubDate>
       
-      <guid>https://milkie-way.github.io/100K/blog/eighth/</guid>
+      <guid>/100K/blog/eighth/</guid>
       <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
       <title>Seventh</title>
-      <link>https://milkie-way.github.io/100K/blog/seventh/</link>
+      <link>/100K/blog/seventh/</link>
       <pubDate>Sun, 07 Oct 2018 11:39:29 +0200</pubDate>
       
-      <guid>https://milkie-way.github.io/100K/blog/seventh/</guid>
+      <guid>/100K/blog/seventh/</guid>
       <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
       <title>Sixth</title>
-      <link>https://milkie-way.github.io/100K/blog/sixth/</link>
+      <link>/100K/blog/sixth/</link>
       <pubDate>Sun, 07 Oct 2018 11:39:25 +0200</pubDate>
       
-      <guid>https://milkie-way.github.io/100K/blog/sixth/</guid>
+      <guid>/100K/blog/sixth/</guid>
       <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
       <title>Fifth</title>
-      <link>https://milkie-way.github.io/100K/blog/fifth/</link>
+      <link>/100K/blog/fifth/</link>
       <pubDate>Sun, 07 Oct 2018 11:39:22 +0200</pubDate>
       
-      <guid>https://milkie-way.github.io/100K/blog/fifth/</guid>
+      <guid>/100K/blog/fifth/</guid>
       <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
       <title>Fourth</title>
-      <link>https://milkie-way.github.io/100K/blog/fourth/</link>
+      <link>/100K/blog/fourth/</link>
       <pubDate>Sun, 07 Oct 2018 11:39:16 +0200</pubDate>
       
-      <guid>https://milkie-way.github.io/100K/blog/fourth/</guid>
+      <guid>/100K/blog/fourth/</guid>
       <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
       <title>Third</title>
-      <link>https://milkie-way.github.io/100K/blog/third/</link>
+      <link>/100K/blog/third/</link>
       <pubDate>Sun, 07 Oct 2018 11:39:13 +0200</pubDate>
       
-      <guid>https://milkie-way.github.io/100K/blog/third/</guid>
+      <guid>/100K/blog/third/</guid>
       <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
       <title>Second</title>
-      <link>https://milkie-way.github.io/100K/blog/second/</link>
+      <link>/100K/blog/second/</link>
       <pubDate>Sun, 07 Oct 2018 11:39:10 +0200</pubDate>
       
-      <guid>https://milkie-way.github.io/100K/blog/second/</guid>
+      <guid>/100K/blog/second/</guid>
       <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://milkie-way.github.io/100K/blog/first/</link>
+      <link>/100K/blog/first/</link>
       <pubDate>Sun, 07 Oct 2018 11:17:14 +0200</pubDate>
       
-      <guid>https://milkie-way.github.io/100K/blog/first/</guid>
+      <guid>/100K/blog/first/</guid>
       <description>This is my first post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     

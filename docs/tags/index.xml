@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mediumish</title>
-    <link>https://milkie-way.github.io/100K/tags/</link>
+    <link>/100K/tags/</link>
     <description>Recent content in Tags on Mediumish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>John Doe - All rights reserved</copyright>
-    <lastBuildDate>Sun, 07 Oct 2018 11:40:14 +0200</lastBuildDate><atom:link href="https://milkie-way.github.io/100K/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Oct 2018 11:40:14 +0200</lastBuildDate><atom:link href="/100K/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>drink</title>
-      <link>https://milkie-way.github.io/100K/tags/drink/</link>
+      <link>/100K/tags/drink/</link>
       <pubDate>Sun, 07 Oct 2018 11:40:14 +0200</pubDate>
       
-      <guid>https://milkie-way.github.io/100K/tags/drink/</guid>
+      <guid>/100K/tags/drink/</guid>
       <description></description>
     </item>
     
     <item>
       <title>interesting</title>
-      <link>https://milkie-way.github.io/100K/tags/interesting/</link>
+      <link>/100K/tags/interesting/</link>
       <pubDate>Sun, 07 Oct 2018 11:40:14 +0200</pubDate>
       
-      <guid>https://milkie-way.github.io/100K/tags/interesting/</guid>
+      <guid>/100K/tags/interesting/</guid>
       <description></description>
     </item>
     
