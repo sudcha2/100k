@@ -1,5 +1,7 @@
 # Demo
 
+https://milkie-way.github.io/100k/
+
 This is the demonstration site of the [Mediumish GoHugo Theme](https://github.com/lgaida/mediumish-gohugo-theme)
 Run `hugo server -w -v`
 
