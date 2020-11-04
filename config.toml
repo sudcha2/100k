@@ -1,4 +1,4 @@
-baseURL = "/100K"
+baseURL = "/"
 languageCode = "en-us"
 title = "Mediumish"
 theme = "theme"
